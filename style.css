@@ -48,6 +48,10 @@ h5 {
     width: 300px;
 }
 
+.qr-title h1{
+    font-size: 25px;
+}
+
 .qr-desc {
     margin-top: 1.5rem;
     text-align: center;
